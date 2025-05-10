@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="88" viewBox="0 0 88 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: 0.6;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#82edc5"/>
+      <stop offset="1" stop-color="#3dcd98"/>
+    </linearGradient>
+  </defs>
+  <g id="洗衣" transform="translate(-194 -702)">
+    <circle id="椭圆_8" data-name="椭圆 8" class="cls-1" cx="44" cy="44" r="44" transform="translate(194 702)"/>
+    <g id="组_28998" data-name="组 28998">
+      <path id="矩形_24738" data-name="矩形 24738" class="cls-2" d="M5,4A1,1,0,0,0,4,5V45a1,1,0,0,0,1,1H37a1,1,0,0,0,1-1V5a1,1,0,0,0-1-1H5M5,0H37a5,5,0,0,1,5,5V45a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" transform="translate(217 721)"/>
+      <rect id="矩形_24739" data-name="矩形 24739" class="cls-2" width="38" height="3" transform="translate(219 733)"/>
+      <path id="椭圆_12" data-name="椭圆 12" class="cls-3" d="M12,3a9,9,0,1,0,9,9,9.01,9.01,0,0,0-9-9m0-3A12,12,0,1,1,0,12,12,12,0,0,1,12,0Z" transform="translate(226 740)"/>
+      <circle id="椭圆_13" data-name="椭圆 13" class="cls-2" cx="2" cy="2" r="2" transform="translate(243 727)"/>
+      <circle id="椭圆_14" data-name="椭圆 14" class="cls-2" cx="2" cy="2" r="2" transform="translate(249 727)"/>
+    </g>
+  </g>
+</svg>
